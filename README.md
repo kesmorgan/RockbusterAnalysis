@@ -10,11 +10,11 @@ Goal of the analysis is to help with the launch strategy for a new online video 
 - Do sales figures vary between geographic regions?
 
 ## Data
-Rockbuster {data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+Rockbuster [data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
 ## Tools
 For this project postgreSQL was used.
 
 ## Resources
-[Tableau visualizations](https://public.tableau.com/app/profile/katie1950/viz/Rockbuster_16707158211880/Rockbuster#1)
-[Presentation](https://docs.google.com/presentation/d/1wgaY0db_KHo5tjTYTDV3Vnn1vs6X1byWwrM25rIPld4/edit?usp=sharing)
+- [Tableau visualizations](https://public.tableau.com/app/profile/katie1950/viz/Rockbuster_16707158211880/Rockbuster#1)
+- [Presentation](https://docs.google.com/presentation/d/1wgaY0db_KHo5tjTYTDV3Vnn1vs6X1byWwrM25rIPld4/edit?usp=sharing)
